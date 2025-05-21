@@ -1,15 +1,8 @@
 # Hello, I'm @FluxBro
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=OSINT+%26+Cybersecurity+Enthusiast;Python+Developer;Always+learning+new+things" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <a href="https://discord.gg/osintcats">
-    <img src="https://img.shields.io/discord/937480354951779360?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
-  </a>
-  <a href="https://twitter.com/YourTwitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/discord/1369757362612732124?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
   </a>
 </div>
 
