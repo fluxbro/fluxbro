@@ -1,9 +1,7 @@
 # Hello, I'm @FluxBro
 
 <div align="center">
-  <a href="https://discord.gg/osintcats">
-    <img src="https://img.shields.io/discord/1369757362612732124?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
-  </a>
+<iframe src="https://discord.com/widget?id=1369757362612732124&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
 
 ## 💻 About Me
