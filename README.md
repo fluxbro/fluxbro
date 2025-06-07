@@ -6,8 +6,6 @@
 class flux:
     def __init__(self):
         self.name = "flux"
-        self.age=16
-        self.country="Germany"
         self.languages = ["Python", "Golang", "C","C++", "C#"]
         self.currently_learning = ["Golang"]
         
