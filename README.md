@@ -10,7 +10,7 @@ class flux:
         self.currently_learning = ["Golang"]
         
     def hi(self):
-        print("moin!")
+        print("hello!")
         
 me = flux()
 me.hi()
