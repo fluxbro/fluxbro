@@ -1,50 +1,81 @@
-# Hello, I'm @FluxBro
+<div align="center">
 
-## 💻 About Me
+</div>
+
+---
+
+## 👾 about me
 
 ```python
-class flux:
+class Anastasia:
     def __init__(self):
-        self.name = "flux"
-        self.languages = ["Python", "Golang", "C","C++", "C#"]
+        self.name               = "anastasia"
+        self.languages          = ["Python", "Go",]
         self.currently_learning = ["Golang"]
-        
+        self.interests          = ["OSINT", "security", "tools"]
+
     def hi(self):
-        print("hello!")
-        
-me = flux()
-me.hi()
+        print("hey, glad you're here 👋")
+
+me = Anastasia()
+me.hi()  
 ```
 
-## 🚀 Projects
+---
+
+## 🛠️ languages & tools
 
 <div align="center">
-  <a href="https://github.com/fluxbro/osintcat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fluxbro&repo=osintcat&theme=radical" />
-  </a>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-## 🛠️ Tools & Languages which u use:
+---
+
+## 🚀 featured project
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+[![osintcat](https://github-readme-stats.vercel.app/api/pin/?username=fluxbro&repo=osintcat&theme=radical)](https://github.com/fluxbro/OsintCat-Docs)
+
+**osintcat** — #1 osint tool on the market.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-333?style=flat)
+![CLI](https://img.shields.io/badge/CLI-333?style=flat)
+
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## 🏆 github trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fluxbro&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fluxbro&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/fluxbro)
+
+</div>
+
+---
+
+## 📊 github stats
+
+<div align="center">
+
+[![FluxBro's GitHub stats](https://github-readme-stats.vercel.app/api?username=fluxbro&show_icons=true&theme=radical&hide_border=true)](https://github.com/fluxbro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluxbro&layout=compact&theme=radical&hide_border=true)](https://github.com/fluxbro)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fluxbro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/fluxbro?label=Followers&style=social" alt="Followers">
+
+![Profile Views](https://komarev.com/ghpvc/?username=fluxbro&label=profile+views&color=7F77DD&style=flat)
+![Followers](https://img.shields.io/github/followers/fluxbro?label=followers&style=social)
+
 </div>
