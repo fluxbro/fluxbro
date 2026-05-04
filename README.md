@@ -1,4 +1,3 @@
-<div align="center">
 
 </div>
 
@@ -39,7 +38,9 @@ me.hi()
 
 <div align="center">
 
-[![osintcat](https://github-readme-stats.vercel.app/api/pin/?username=fluxbro&repo=osintcat&theme=radical)](https://github.com/fluxbro/OsintCat-Docs)
+<img width="600" height="143" alt="bannner_lols" src="https://github.com/user-attachments/assets/aac08a50-c0db-42a2-94b4-150ce3381e9b" />
+<div align="center">
+
 
 **osintcat** - #1 osint tool on the market.
 
