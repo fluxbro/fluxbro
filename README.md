@@ -12,7 +12,6 @@ class Anastasia:
         self.name               = "anastasia"
         self.languages          = ["Python", "Go",]
         self.currently_learning = ["Golang"]
-        self.interests          = ["OSINT", "security", "tools"]
 
     def hi(self):
         print("hey, glad you're here 👋")
@@ -42,7 +41,7 @@ me.hi()
 
 [![osintcat](https://github-readme-stats.vercel.app/api/pin/?username=fluxbro&repo=osintcat&theme=radical)](https://github.com/fluxbro/OsintCat-Docs)
 
-**osintcat** — #1 osint tool on the market.
+**osintcat** - #1 osint tool on the market.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-333?style=flat)
